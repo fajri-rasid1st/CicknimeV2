@@ -1,4 +1,4 @@
-package com.example.cicknimev2.fragment;
+package com.example.cicknimev2.fragments;
 
 import android.os.Bundle;
 

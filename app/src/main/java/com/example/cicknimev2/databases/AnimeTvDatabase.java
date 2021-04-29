@@ -1,4 +1,4 @@
-package com.example.cicknimev2.animemovie;
+package com.example.cicknimev2.databases;
 
 import android.annotation.SuppressLint;
 import android.content.Context;
@@ -9,27 +9,27 @@ import com.example.cicknimev2.R;
 
 import java.util.ArrayList;
 
-public class AnimeMovieDatabase {
+public class AnimeTvDatabase {
     private final Context context;
 
-    public AnimeMovieDatabase(Context context) {
+    public AnimeTvDatabase(Context context) {
         this.context = context;
     }
 
     public ArrayList<AnimeModel> getListData() {
         ArrayList<AnimeModel> animeList = new ArrayList<>();
 
-        String[] title = context.getResources().getStringArray(R.array.movie_title);
-        String[] synopsis = context.getResources().getStringArray(R.array.movie_synopsis);
-        String[] studios = context.getResources().getStringArray(R.array.movie_studios);
-        String[] aired = context.getResources().getStringArray(R.array.movie_aired);
-        String[] duration = context.getResources().getStringArray(R.array.movie_duration);
-        String[] genres = context.getResources().getStringArray(R.array.movie_genres);
-        String[] rating = context.getResources().getStringArray(R.array.movie_rating);
-        String[] score = context.getResources().getStringArray(R.array.movie_score);
+        String[] title = context.getResources().getStringArray(R.array.tv_title);
+        String[] synopsis = context.getResources().getStringArray(R.array.tv_synopsis);
+        String[] studios = context.getResources().getStringArray(R.array.tv_studios);
+        String[] aired = context.getResources().getStringArray(R.array.tv_aired);
+        String[] duration = context.getResources().getStringArray(R.array.tv_duration);
+        String[] genres = context.getResources().getStringArray(R.array.tv_genres);
+        String[] rating = context.getResources().getStringArray(R.array.tv_rating);
+        String[] score = context.getResources().getStringArray(R.array.tv_score);
 
         @SuppressLint("Recycle")
-        TypedArray poster = context.getResources().obtainTypedArray(R.array.movie_poster);
+        TypedArray poster = context.getResources().obtainTypedArray(R.array.tv_poster);
 
         for (int i = 0; i < title.length; i++) {
             AnimeModel anime = new AnimeModel();

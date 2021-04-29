@@ -1,4 +1,4 @@
-package com.example.cicknimev2.animemovie;
+package com.example.cicknimev2.adapters;
 
 import android.view.LayoutInflater;
 import android.view.View;
@@ -16,7 +16,7 @@ import com.example.cicknimev2.R;
 
 import java.util.ArrayList;
 
-public class AnimeMovieAdapter extends RecyclerView.Adapter<AnimeMovieAdapter.ListViewHolder> {
+public class AnimeTvAdapter extends RecyclerView.Adapter<AnimeTvAdapter.ListViewHolder> {
     private ArrayList<AnimeModel> animes;
     private OnItemClickListener<AnimeModel> clickListener;
 
@@ -30,14 +30,14 @@ public class AnimeMovieAdapter extends RecyclerView.Adapter<AnimeMovieAdapter.Li
 
     @NonNull
     @Override
-    public ListViewHolder onCreateViewHolder(@NonNull ViewGroup parent, int viewType) {
+    public AnimeTvAdapter.ListViewHolder onCreateViewHolder(@NonNull ViewGroup parent, int viewType) {
         View view = LayoutInflater.from(parent.getContext())
-                .inflate(R.layout.item_list_anime_movie, parent, false);
-        return new ListViewHolder(view);
+                .inflate(R.layout.item_list_anime_tv, parent, false);
+        return new AnimeTvAdapter.ListViewHolder(view);
     }
 
     @Override
-    public void onBindViewHolder(@NonNull ListViewHolder holder, int position) {
+    public void onBindViewHolder(@NonNull AnimeTvAdapter.ListViewHolder holder, int position) {
         holder.onBind(animes.get(position));
     }
 
@@ -48,27 +48,28 @@ public class AnimeMovieAdapter extends RecyclerView.Adapter<AnimeMovieAdapter.Li
 
     public class ListViewHolder extends RecyclerView.ViewHolder implements View.OnClickListener {
         AnimeModel anime;
-        TextView tvTitle, tvGenre, tvScore;
+        TextView tvTitle, tvSynopsis;
         ImageView ivPoster;
+        RatingBar rbStarScore;
 
         public ListViewHolder(@NonNull View itemView) {
             super(itemView);
 
             itemView.setOnClickListener(this);
 
-            tvTitle = itemView.findViewById(R.id.tv_title_movie_anime);
-            tvGenre = itemView.findViewById(R.id.tv_genre_movie_anime);
-            tvScore = itemView.findViewById(R.id.tv_score_movie_anime);
-            ivPoster = itemView.findViewById(R.id.iv_poster_movie_anime);
+            tvTitle = itemView.findViewById(R.id.tv_title_list);
+            tvSynopsis = itemView.findViewById(R.id.tv_synopsis_list);
+            ivPoster = itemView.findViewById(R.id.iv_poster_list);
+            rbStarScore = itemView.findViewById(R.id.rb_score_list);
         }
 
         public void onBind(AnimeModel anime) {
             this.anime = anime;
 
             tvTitle.setText(anime.getTitle());
-            tvGenre.setText(anime.getGenres().split(", ")[0]);
-            tvScore.setText(String.valueOf(anime.getScore()));
+            tvSynopsis.setText(anime.getSynopsis());
             ivPoster.setImageResource(anime.getPoster());
+            rbStarScore.setRating(anime.getScore() / 2);
         }
 
         @Override

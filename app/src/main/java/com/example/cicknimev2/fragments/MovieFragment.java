@@ -1,4 +1,4 @@
-package com.example.cicknimev2.fragment;
+package com.example.cicknimev2.fragments;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -15,9 +15,9 @@ import android.view.ViewGroup;
 import com.example.cicknimev2.AnimeModel;
 import com.example.cicknimev2.OnItemClickListener;
 import com.example.cicknimev2.R;
-import com.example.cicknimev2.activity.AnimeDetailActivity;
-import com.example.cicknimev2.animemovie.AnimeMovieAdapter;
-import com.example.cicknimev2.animemovie.AnimeMovieDatabase;
+import com.example.cicknimev2.activities.AnimeDetailActivity;
+import com.example.cicknimev2.adapters.AnimeMovieAdapter;
+import com.example.cicknimev2.databases.AnimeMovieDatabase;
 
 public class MovieFragment extends Fragment implements OnItemClickListener<AnimeModel> {
     private RecyclerView rvAnimeMovie;

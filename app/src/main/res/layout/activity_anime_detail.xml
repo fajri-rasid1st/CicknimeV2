@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/primaryColor"
-    tools:context=".activity.AnimeDetailActivity">
+    tools:context=".activities.AnimeDetailActivity">
 
     <androidx.appcompat.widget.Toolbar
         android:id="@+id/tb_detail"
@@ -115,7 +115,7 @@
                         app:layout_constraintStart_toStartOf="parent"
                         app:layout_constraintTop_toTopOf="parent"
                         tools:ignore="ContentDescription"
-                        tools:src="@drawable/movie_the" />
+                        tools:src="@drawable/movie_wea" />
 
                     <View
                         android:layout_width="match_parent"
@@ -155,7 +155,7 @@
                             android:layout_height="match_parent"
                             android:scaleType="fitXY"
                             tools:ignore="ContentDescription"
-                            tools:src="@drawable/movie_the" />
+                            tools:src="@drawable/movie_wea" />
 
                     </androidx.cardview.widget.CardView>
 

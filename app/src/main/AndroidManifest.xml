@@ -11,15 +11,16 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.CicknimeV2"
         tools:ignore="AllowBackup">
-        <activity android:name=".activity.AnimeDetailActivity"></activity>
-        <activity android:name=".activity.SplashScreenActivity">
+        <activity
+            android:name=".activities.AnimeDetailActivity"
+            android:parentActivityName=".activities.MainActivity" />
+        <activity android:name=".activities.SplashScreenActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".activity.MainActivity" />
+        <activity android:name=".activities.MainActivity" />
 
         <meta-data
             android:name="preloaded_fonts"

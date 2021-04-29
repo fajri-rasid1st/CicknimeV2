@@ -1,4 +1,4 @@
-package com.example.cicknimev2.activity;
+package com.example.cicknimev2.activities;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
@@ -12,9 +12,9 @@ import android.view.Menu;
 import android.view.MenuItem;
 
 import com.example.cicknimev2.R;
-import com.example.cicknimev2.fragment.LibraryFragment;
-import com.example.cicknimev2.fragment.MovieFragment;
-import com.example.cicknimev2.fragment.TvFragment;
+import com.example.cicknimev2.fragments.LibraryFragment;
+import com.example.cicknimev2.fragments.MovieFragment;
+import com.example.cicknimev2.fragments.TvFragment;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 
 import java.util.HashMap;

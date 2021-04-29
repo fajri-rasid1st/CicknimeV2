@@ -1,4 +1,4 @@
-package com.example.cicknimev2.activity;
+package com.example.cicknimev2.activities;
 
 import androidx.appcompat.app.AppCompatActivity;
 
