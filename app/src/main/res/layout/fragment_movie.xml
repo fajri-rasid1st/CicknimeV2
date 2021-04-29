@@ -3,14 +3,15 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".fragment.MovieFragment">
+    tools:context=".fragment.TvFragment">
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/rv_anime_movie"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:clipToPadding="false"
+        android:paddingHorizontal="12dp"
         android:paddingVertical="16dp"
-        tools:listitem="@layout/item_list_anime_tv" />
+        tools:listitem="@layout/item_list_anime_movie" />
 
 </FrameLayout>

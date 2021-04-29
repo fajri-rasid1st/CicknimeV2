@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string-array name="anime_title">
+    <string-array name="tv_title">
         <item>Boruto: Naruto Next Generations</item>
         <item>The Pet Girl of Sakurasou</item>
         <item>Horimiya</item>
@@ -14,7 +14,7 @@
         <item>Isekai Quartet 2</item>
     </string-array>
 
-    <string-array name="anime_synopsis">
+    <string-array name="tv_synopsis">
         <item>Following the successful end of the Fourth Shinobi World War, Konohagakure has been enjoying a period of peace, prosperity, and extraordinary technological advancement. This is all due to the efforts of the Allied Shinobi Forces and the village\'s Seventh Hokage, Naruto Uzumaki. Now resembling a modern metropolis, Konohagakure has changed, particularly the life of a shinobi. Under the watchful eye of Naruto and his old comrades, a new generation of shinobi has stepped up to learn the ways of the ninja.</item>
         <item>When abandoned kittens and his good conscience force second year Sorata Kanda to move into Suimei High School’s infamous Sakura Hall, the satellite dorm and its eccentric, misfit residents turn his life upside down. The decidedly average Sorata finds it difficult to fit in with the bizarre collection of dorm residents like Misaki, an energetic animator; Jin, a playwright playboy; Ryuunosuke, a reclusive programmer; and Chihiro, the dorm manager, art teacher, and party girl.</item>
         <item>On the surface, the thought of Kyouko Hori and Izumi Miyamura getting along would be the last thing in people\'s minds. After all, Hori has a perfect combination of beauty and brains, while Miyamura appears meek and distant to his fellow classmates. However, a fateful meeting between the two lays both of their hidden selves bare. Even though she is popular at school, Hori has little time to socialize with her friends due to housework. On the other hand, Miyamura lives under the noses of his peers, his body bearing secret tattoos and piercings that make him look like a gentle delinquent.</item>
@@ -27,7 +27,7 @@
         <item>Despite completing all the tasks given to them, Ainz Ooal Gown, Tanya Degurechaff, Kazuma Satou, Subaru Natsuki, and the other members of Class 2 are surprised to find out that their role as students is far from over. With no means of returning home, the class of eccentric personalities is still mysteriously stuck in the unfamiliar world. Although, as they are becoming quite fond of each other, spending more time together does not sound that bad.</item>
     </string-array>
 
-    <string-array name="anime_studios">
+    <string-array name="tv_studios">
         <item>Studio Pierrot</item>
         <item>J.C.Staff</item>
         <item>CloverWorks</item>
@@ -40,7 +40,7 @@
         <item>Studio PuYUKAI</item>
     </string-array>
 
-    <string-array name="anime_aired">
+    <string-array name="tv_aired">
         <item>Apr 5, 2017 to ?</item>
         <item>Oct 9, 2012 to Mar 26, 2013</item>
         <item>Jan 10, 2021 to Apr 4, 2021</item>
@@ -53,7 +53,7 @@
         <item>Jan 15, 2020 to Apr 1, 2020</item>
     </string-array>
 
-    <string-array name="anime_duration">
+    <string-array name="tv_duration">
         <item>23 mins</item>
         <item>23 mins</item>
         <item>23 mins</item>
@@ -66,7 +66,7 @@
         <item>11 mins</item>
     </string-array>
 
-    <string-array name="anime_genres">
+    <string-array name="tv_genres">
         <item>Action, Adventure, Super Power, Martial Art, Shounen</item>
         <item>Slice of Life, Comedy, Drama, Romance, School</item>
         <item>Slice of Life, Comedy, Romance, School, Shounen</item>
@@ -79,7 +79,7 @@
         <item>Comedy, Parody, Fantasy</item>
     </string-array>
 
-    <string-array name="anime_rating">
+    <string-array name="tv_rating">
         <item>PG-13 - Teens 13 or older</item>
         <item>PG-13 - Teens 13 or older</item>
         <item>PG-13 - Teens 13 or older</item>
@@ -92,7 +92,7 @@
         <item>PG-13 - Teens 13 or older</item>
     </string-array>
 
-    <integer-array name="anime_poster">
+    <integer-array name="tv_poster">
         <item>@drawable/anime_bor</item>
         <item>@drawable/anime_sak</item>
         <item>@drawable/anime_hor</item>
@@ -105,7 +105,7 @@
         <item>@drawable/anime_ise</item>
     </integer-array>
 
-    <string-array name="anime_score">
+    <string-array name="tv_score">
         <item>5.80</item>
         <item>8.18</item>
         <item>8.29</item>

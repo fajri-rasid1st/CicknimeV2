@@ -4,7 +4,7 @@ import android.content.Intent;
 import android.os.Bundle;
 
 import androidx.fragment.app.Fragment;
-import androidx.recyclerview.widget.LinearLayoutManager;
+import androidx.recyclerview.widget.GridLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
 import android.os.Parcelable;
@@ -56,7 +56,7 @@ public class MovieFragment extends Fragment implements OnItemClickListener<Anime
         animeMovieAdapter.setClickListener(this);
         animeMovieAdapter.setAnimes(animeMovieDb.getListData());
 
-        rvAnimeMovie.setLayoutManager(new LinearLayoutManager(getActivity()));
+        rvAnimeMovie.setLayoutManager(new GridLayoutManager(getActivity(), 2));
         rvAnimeMovie.setAdapter(animeMovieAdapter);
         rvAnimeMovie.setHasFixedSize(true);
     }
