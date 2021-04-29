@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="anime_title">
+        <item>Boruto: Naruto Next Generations</item>
+        <item>The Pet Girl of Sakurasou</item>
+        <item>Horimiya</item>
+        <item>One Piece</item>
+        <item>TONIKAWA: Over the Moon For You</item>
+        <item>Re:ZERO Starting Life in Another World</item>
+        <item>Overlord III</item>
+        <item>Violet Evergarden</item>
+        <item>Kaguya-sama: Love is War</item>
+        <item>Isekai Quartet 2</item>
+    </string-array>
+
+    <string-array name="anime_synopsis">
+        <item>Following the successful end of the Fourth Shinobi World War, Konohagakure has been enjoying a period of peace, prosperity, and extraordinary technological advancement. This is all due to the efforts of the Allied Shinobi Forces and the village\'s Seventh Hokage, Naruto Uzumaki. Now resembling a modern metropolis, Konohagakure has changed, particularly the life of a shinobi. Under the watchful eye of Naruto and his old comrades, a new generation of shinobi has stepped up to learn the ways of the ninja.</item>
+        <item>When abandoned kittens and his good conscience force second year Sorata Kanda to move into Suimei High School’s infamous Sakura Hall, the satellite dorm and its eccentric, misfit residents turn his life upside down. The decidedly average Sorata finds it difficult to fit in with the bizarre collection of dorm residents like Misaki, an energetic animator; Jin, a playwright playboy; Ryuunosuke, a reclusive programmer; and Chihiro, the dorm manager, art teacher, and party girl.</item>
+        <item>On the surface, the thought of Kyouko Hori and Izumi Miyamura getting along would be the last thing in people\'s minds. After all, Hori has a perfect combination of beauty and brains, while Miyamura appears meek and distant to his fellow classmates. However, a fateful meeting between the two lays both of their hidden selves bare. Even though she is popular at school, Hori has little time to socialize with her friends due to housework. On the other hand, Miyamura lives under the noses of his peers, his body bearing secret tattoos and piercings that make him look like a gentle delinquent.</item>
+        <item>Gol D. Roger was known as the \"Pirate King\", the strongest and most infamous being to have sailed the Grand Line. The capture and execution of Roger by the World Government brought a change throughout the world. His last words before his death revealed the existence of the greatest treasure in the world, One Piece. It was this revelation that brought about the Grand Age of Pirates, men who dreamed of finding One Piece—which promises an unlimited amount of riches and fame—and quite possibly the pinnacle of glory and the title of the Pirate King.</item>
+        <item>Nasa Yuzaki is determined to leave his name in the history books. Ranking first in the national mock exam and aiming for a distinguished high school, he is certain that he has his whole life mapped out. However, fate is a fickle mistress. On his way home one snowy evening, Nasa\'s eyes fall upon a peerless beauty across the street. Bewitched, Nasa tries to approach her—only to get blindsided by an oncoming truck.</item>
+        <item>When Subaru Natsuki leaves the convenience store, the last thing he expects is to be wrenched from his everyday life and dropped into a fantasy world. Things aren\'t looking good for the bewildered teenager; however, not long after his arrival, he is attacked by some thugs. Armed with only a bag of groceries and a now useless cell phone, he is quickly beaten to a pulp. Fortunately, a mysterious beauty named Satella, in hot pursuit after the one who stole her insignia, happens upon Subaru and saves him. In order to thank the honest and kindhearted girl, Subaru offers to help in her search, and later that night, he even finds the whereabouts of that which she seeks.</item>
+        <item>Following the horrific assault on the Re-Estize capital city, the Guardians of the Great Tomb of Nazarick return home to their master Ainz Ooal Gown. After months of laying the groundwork, they are finally ready to set their plans of world domination into action. As Ainz\'s war machine gathers strength, the rest of the world keeps moving. The remote Carne Village, which Ainz once saved from certain doom, continues to prosper despite the many threats on its doorstep. And in the northeastern Baharuth Empire, a certain Bloody Emperor sets his sights on the rising power of Nazarick.</item>
+        <item>The Great War finally came to an end after four long years of conflict; fractured in two, the continent of Telesis slowly began to flourish once again. Caught up in the bloodshed was Violet Evergarden, a young girl raised for the sole purpose of decimating enemy lines. Hospitalized and maimed in a bloody skirmish during the War\'s final leg, she was left with only words from the person she held dearest, but with no understanding of their meaning.</item>
+        <item>At the renowned Shuchiin Academy, Miyuki Shirogane and Kaguya Shinomiya are the student body\'s top representatives. Ranked the top student in the nation and respected by peers and mentors alike, Miyuki serves as the student council president. Alongside him, the vice president Kaguya—eldest daughter of the wealthy Shinomiya family—excels in every field imaginable. They are the envy of the entire student body, regarded as the perfect couple.</item>
+        <item>Despite completing all the tasks given to them, Ainz Ooal Gown, Tanya Degurechaff, Kazuma Satou, Subaru Natsuki, and the other members of Class 2 are surprised to find out that their role as students is far from over. With no means of returning home, the class of eccentric personalities is still mysteriously stuck in the unfamiliar world. Although, as they are becoming quite fond of each other, spending more time together does not sound that bad.</item>
+    </string-array>
+
+    <string-array name="anime_studios">
+        <item>Studio Pierrot</item>
+        <item>J.C.Staff</item>
+        <item>CloverWorks</item>
+        <item>Toei Animation</item>
+        <item>Seven Arcs</item>
+        <item>White Fox</item>
+        <item>Madhouse</item>
+        <item>Kyoto Animation</item>
+        <item>Aniplex of America</item>
+        <item>Studio PuYUKAI</item>
+    </string-array>
+
+    <string-array name="anime_aired">
+        <item>Apr 5, 2017 to ?</item>
+        <item>Oct 9, 2012 to Mar 26, 2013</item>
+        <item>Jan 10, 2021 to Apr 4, 2021</item>
+        <item>Oct 20, 1999 to ?</item>
+        <item>Oct 3, 2020 to Dec 19, 2020</item>
+        <item>Apr 4, 2016 to Sep 19, 2016</item>
+        <item>Jul 10, 2018 to Oct 2, 2018</item>
+        <item>Jan 11, 2018 to Apr 5, 2018</item>
+        <item>Jan 12, 2019 to Mar 30, 2019</item>
+        <item>Jan 15, 2020 to Apr 1, 2020</item>
+    </string-array>
+
+    <string-array name="anime_duration">
+        <item>23 mins</item>
+        <item>23 mins</item>
+        <item>23 mins</item>
+        <item>24 mins</item>
+        <item>23 mins</item>
+        <item>25 mins</item>
+        <item>23 mins</item>
+        <item>24 mins</item>
+        <item>25 mins</item>
+        <item>11 mins</item>
+    </string-array>
+
+    <string-array name="anime_genres">
+        <item>Action, Adventure, Super Power, Martial Art, Shounen</item>
+        <item>Slice of Life, Comedy, Drama, Romance, School</item>
+        <item>Slice of Life, Comedy, Romance, School, Shounen</item>
+        <item>Action, Adventure, Comedy, Super Power, Drama, Fantasy, Shounen</item>
+        <item>Comedy, Romance, Shounen</item>
+        <item>Psychological, Drama, Thriller, Fantasy</item>
+        <item>Action, Magic, Fantasy, Game, Supernatural</item>
+        <item>Slice of Life, Drama, Fantasy</item>
+        <item>Comedy, Psychological, Romance, School, Seinen</item>
+        <item>Comedy, Parody, Fantasy</item>
+    </string-array>
+
+    <string-array name="anime_rating">
+        <item>PG-13 - Teens 13 or older</item>
+        <item>PG-13 - Teens 13 or older</item>
+        <item>PG-13 - Teens 13 or older</item>
+        <item>PG-13 - Teens 13 or older</item>
+        <item>PG-13 - Teens 13 or older</item>
+        <item>R - 17+ (violence, profanity)</item>
+        <item>R - 17+ (violence, profanity)</item>
+        <item>PG-13 - Teens 13 or older</item>
+        <item>PG-13 - Teens 13 or older</item>
+        <item>PG-13 - Teens 13 or older</item>
+    </string-array>
+
+    <integer-array name="anime_poster">
+        <item>@drawable/anime_bor</item>
+        <item>@drawable/anime_sak</item>
+        <item>@drawable/anime_hor</item>
+        <item>@drawable/anime_one</item>
+        <item>@drawable/anime_ton</item>
+        <item>@drawable/anime_rez</item>
+        <item>@drawable/anime_ove</item>
+        <item>@drawable/anime_vio</item>
+        <item>@drawable/anime_kag</item>
+        <item>@drawable/anime_ise</item>
+    </integer-array>
+
+    <string-array name="anime_score">
+        <item>5.80</item>
+        <item>8.18</item>
+        <item>8.29</item>
+        <item>8.52</item>
+        <item>7.95</item>
+        <item>8.28</item>
+        <item>7.93</item>
+        <item>8.64</item>
+        <item>8.42</item>
+        <item>7.37</item>
+    </string-array>
+
+</resources>

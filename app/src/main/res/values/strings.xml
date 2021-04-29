@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">CicknimeV2</string>
+    <string name="movie_label">Movie</string>
+    <string name="label_tv">TV</string>
+    <string name="label_library">Library</string>
+    <string name="search">search</string>
+    <string name="title_of_anime">Title Of Anime : It Can Be Multiple Line</string>
+    <string name="dummy_text">
+        Lorem ipsum dolor sit amet, consect adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes. Cum sociis natoque penatibus et magnis dis parturient montes. Cum sociis natoque penatibus et magnis dis parturient montes.
+    </string>
+    <string name="hello_blank_fragment" />
+    <string name="library">Library</string>
+    <string name="detail">Detail</string>
+    <string name="subtitle">Action • 24 Mins • 17+</string>
+    <string name="comix_wave_film">CoMix Wave Film</string>
+    <string name="favorite">Favorite</string>
+    <string name="book_now">Book Now</string>
+    <string name="genres">genres</string>
+    <string name="synopsis">synopsis</string>
+    <string name="read_more">read more</string>
+    <string name="related_anime">related anime</string>
+    <string name="watch_pv">watch pv</string>
+    <string name="preview">preview</string>
+</resources>

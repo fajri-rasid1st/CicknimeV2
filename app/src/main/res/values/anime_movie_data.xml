@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="movie_title">
+        <item>Your Name</item>
+        <item>The Last: Naruto the Movie</item>
+        <item>Weathering With You</item>
+        <item>A Silent Voice</item>
+        <item>Hello World</item>
+        <item>Josee, the Tiger and the Fish</item>
+        <item>Stand By Me Doraemon 2</item>
+        <item>A Whisker Away</item>
+        <item>The Garden of Words</item>
+        <item>Children Who Chase Lost Voices</item>
+    </string-array>
+
+    <string-array name="movie_synopsis">
+        <item>Mitsuha Miyamizu, a high school girl, yearns to live the life of a boy in the bustling city of Tokyo—a dream that stands in stark contrast to her present life in the countryside. Meanwhile in the city, Taki Tachibana lives a busy life as a high school student while juggling his part-time job and hopes for a future in architecture.</item>
+        <item>Two years have passed since the end of the Fourth Great Ninja War. Konohagakure has remained in a state of peace and harmony—until Sixth Hokage Kakashi Hatake notices the moon is dangerously approaching the Earth, posing the threat of planetary ruin. Amidst the grave ordeal, the Konoha is invaded by a new evil, Toneri Oosutuski, who suddenly abducts Hinata Hyuuga\'s little sister Hanabi. Kakashi dispatches a skilled ninja team comprised of Naruto Uzumaki, Sakura Haruno, Shikamaru Nara, Sai, and Hinata in an effort to rescue Hanabi from the diabolical clutches of Toneri. However, during their mission, the team faces several obstacles that challenge them, foiling their efforts.</item>
+        <item>Tokyo is currently experiencing rain showers that seem to disrupt the usual pace of everyone living there to no end. Amidst this seemingly eternal downpour arrives the runaway high school student Hodaka Morishima, who struggles to financially support himself—ending up with a job at a small-time publisher. At the same time, the orphaned Hina Amano also strives to find work to sustain herself and her younger brother.</item>
+        <item>As a wild youth, elementary school student Shouya Ishida sought to beat boredom in the cruelest ways. When the deaf Shouko Nishimiya transfers into his class, Shouya and the rest of his class thoughtlessly bully her for fun. However, when her mother notifies the school, he is singled out and blamed for everything done to her. With Shouko transferring out of the school, Shouya is left at the mercy of his classmates. He is heartlessly ostracized all throughout elementary and middle school, while teachers turn a blind eye.</item>
+        <item>The year is 2027, and the city of Kyoto has undergone tremendous technological advancement. Within the city lives Naomi Katagaki, a socially awkward and introverted boy with a love for books, and Ruri Ichigyou, a girl with a cold personality who is often blunt with people, but shares his love for reading. Despite having similar interests, Naomi is afraid to approach Ruri due to her unfriendly nature.</item>
+        <item>A youth romantic drama with themes of growing up, the story focuses on college student Tsuneo and dreamer Josee, who lives her life stuck in a wheelchair. Josee—named after the heroine in Françoise Sagan\'s Wonderful Clouds—spends most of her days reading and painting until by chance she encounters Tsuneo, and decides it\'s time to face the real world.</item>
+        <item>After reminiscing about his late grandmother, Nobita Nobi wishes to see her again and asks Doraemon to return them to the past. Following the wholesome reunion of the two, Nobita\'s grandmother confesses that she hopes to meet his future bride. Nobita accepts her request out of filial love and quickly scrambles into the time machine as he and Doraemon journey forward in time.</item>
+        <item>Miyo Sasaki is an energetic high school girl who comes from a broken family consisting of her unconfident father and an overly invested stepmother, whose attempts at connecting with Miyo come across as bothersome. Seeing Kento Hinode as a refuge from all her personal issues, she can\'t help herself from forcing her unorthodox demonstrations of love onto her crush.</item>
+        <item>On a rainy morning in Tokyo, Takao Akizuki, an aspiring shoemaker, decides to skip class to sketch designs in a beautiful garden. This is where he meets Yukari Yukino, a beautiful yet mysterious woman, for the very first time. Offering to make her new shoes, Takao continues to meet with Yukari throughout the rainy season, and without even realizing it, the two are able to alleviate the worries hidden in their hearts just by being with each other. However, their personal struggles have not disappeared completely, and as the end of the rainy season approaches, their relationship will be put to the test.</item>
+        <item>Between being an exceptional student and taking care of the house alone during her mother\'s absence, Asuna Watase\'s only distraction is listening to her old crystal radio in her secret mountain hideout. One day, she accidentally tunes to a mysterious and melancholic melody, different from anything she has ever heard before. Soon after, an enigmatic boy named Shun saves her from a dangerous creature, unknowingly dragging Asuna on a long journey to a long lost land bound to surpass her very imagination, turning her once melodic life into an intricate requiem.</item>
+    </string-array>
+
+    <string-array name="movie_studios">
+        <item>CoMix Wave Films</item>
+        <item>Studio Pierrot</item>
+        <item>CoMix Wave Films</item>
+        <item>Kyoto Animation</item>
+        <item>Graphinica</item>
+        <item>Bones</item>
+        <item>Shirogumi, Shin-Ei Animation</item>
+        <item>Studio Colorido</item>
+        <item>CoMix Wave Films</item>
+        <item>CoMix Wave Films</item>
+    </string-array>
+
+    <string-array name="movie_aired">
+        <item>Aug 26, 2016</item>
+        <item>Dec 6, 2014</item>
+        <item>Jul 19, 2019</item>
+        <item>Sep 17, 2016</item>
+        <item>Sep 20, 2019</item>
+        <item>Dec 25, 2020</item>
+        <item>Nov 20, 2020</item>
+        <item>Jun 18, 2020</item>
+        <item>May 31, 2013</item>
+        <item>May 7, 2011</item>
+    </string-array>
+
+    <string-array name="movie_duration">
+        <item>106 mins</item>
+        <item>112 mins</item>
+        <item>114 mins</item>
+        <item>130 mins</item>
+        <item>97 mins</item>
+        <item>98 mins</item>
+        <item>95 mins</item>
+        <item>104 mins</item>
+        <item>46 mins</item>
+        <item>116 mins</item>
+    </string-array>
+
+    <string-array name="movie_genres">
+        <item>Romance, Supernatural, School, Drama</item>
+        <item>Action, Super Power, Romance, Martial Arts, Shounen</item>
+        <item>Slice of Life, Drama, Romance, Fantasy</item>
+        <item>Drama, School, Shounen</item>
+        <item>Sci-Fi, Drama, Romance</item>
+        <item>Slice of Life, Drama, Romance</item>
+        <item>Comedy, Kids, Sci-Fi, Seinen</item>
+        <item>Comedy, Supernatural, Drama, Romance, School</item>
+        <item>Slice of Life, Psychological, Drama, Romance</item>
+        <item>Adventure, Romance, Fantasy</item>
+    </string-array>
+
+    <string-array name="movie_rating">
+        <item>PG-13 - Teens 13 or older</item>
+        <item>PG-13 - Teens 13 or older</item>
+        <item>PG-13 - Teens 13 or older</item>
+        <item>PG-13 - Teens 13 or older</item>
+        <item>PG-13 - Teens 13 or older</item>
+        <item>PG-13 - Teens 13 or older</item>
+        <item>PG - Children</item>
+        <item>PG-13 - Teens 13 or older</item>
+        <item>PG-13 - Teens 13 or older</item>
+        <item>PG-13 - Teens 13 or older</item>
+    </string-array>
+
+    <integer-array name="movie_poster">
+        <item>@drawable/movie_you</item>
+        <item>@drawable/movie_nar</item>
+        <item>@drawable/movie_wea</item>
+        <item>@drawable/movie_asi</item>
+        <item>@drawable/movie_hel</item>
+        <item>@drawable/movie_jos</item>
+        <item>@drawable/movie_sta</item>
+        <item>@drawable/movie_awi</item>
+        <item>@drawable/movie_the</item>
+        <item>@drawable/movie_chi</item>
+    </integer-array>
+
+    <string-array name="movie_score">
+        <item>8.95</item>
+        <item>5.75</item>
+        <item>10.0</item>
+        <item>1.65</item>
+        <item>7.60</item>
+        <item>4.05</item>
+        <item>6.25</item>
+        <item>7.40</item>
+        <item>8.05</item>
+        <item>3.60</item>
+    </string-array>
+
+</resources>
