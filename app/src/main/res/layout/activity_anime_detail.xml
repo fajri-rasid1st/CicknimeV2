@@ -115,7 +115,7 @@
                         app:layout_constraintStart_toStartOf="parent"
                         app:layout_constraintTop_toTopOf="parent"
                         tools:ignore="ContentDescription"
-                        tools:src="@drawable/movie_wea" />
+                        tools:src="@drawable/movie_the" />
 
                     <View
                         android:layout_width="match_parent"
@@ -155,7 +155,7 @@
                             android:layout_height="match_parent"
                             android:scaleType="fitXY"
                             tools:ignore="ContentDescription"
-                            tools:src="@drawable/movie_wea" />
+                            tools:src="@drawable/movie_the" />
 
                     </androidx.cardview.widget.CardView>
 

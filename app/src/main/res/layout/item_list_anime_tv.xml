@@ -24,7 +24,7 @@
             android:layout_height="match_parent"
             android:scaleType="centerCrop"
             tools:ignore="ContentDescription"
-            tools:src="@drawable/anime_ton" />
+            tools:src="@drawable/anime_vio" />
 
     </androidx.cardview.widget.CardView>
 
