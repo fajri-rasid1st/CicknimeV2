@@ -49,7 +49,7 @@
 
     <TextView
         android:id="@+id/tv_title_movie_anime"
-        android:layout_width="wrap_content"
+        android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginHorizontal="6dp"
         android:layout_marginTop="6dp"
@@ -57,9 +57,10 @@
         android:fontFamily="@font/poppins_semibold"
         android:maxLines="2"
         android:textColor="@color/textOnPrimary"
+        app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/cv_movie_anime"
-        tools:text="This Is A Title" />
+        tools:text="This Is A Title : Lorem Ipsum Dolor Sit Amet" />
 
     <TextView
         android:id="@+id/tv_genre_movie_anime"
