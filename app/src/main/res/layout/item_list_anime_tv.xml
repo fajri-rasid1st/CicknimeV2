@@ -58,8 +58,9 @@
             android:isIndicator="true"
             android:numStars="5"
             android:progressBackgroundTint="@color/darkPrimaryColor"
-            android:rating="3"
-            android:stepSize="0.05"
+            android:progressTint="@color/secondaryColor"
+            android:rating="2.65"
+            android:stepSize="0.01"
             android:transformPivotX="0dp"
             android:transformPivotY="0dp" />
 

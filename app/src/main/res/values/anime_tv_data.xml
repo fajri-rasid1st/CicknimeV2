@@ -80,16 +80,16 @@
     </string-array>
 
     <string-array name="tv_rating">
-        <item>PG-13 - Teens 13 or older</item>
-        <item>PG-13 - Teens 13 or older</item>
-        <item>PG-13 - Teens 13 or older</item>
-        <item>PG-13 - Teens 13 or older</item>
-        <item>PG-13 - Teens 13 or older</item>
-        <item>R - 17+</item>
-        <item>R - 17+</item>
-        <item>PG-13 - Teens 13 or older</item>
-        <item>PG-13 - Teens 13 or older</item>
-        <item>PG-13 - Teens 13 or older</item>
+        <item>PG-13</item>
+        <item>PG-13</item>
+        <item>PG-13</item>
+        <item>PG-13</item>
+        <item>PG-13</item>
+        <item>R-17+</item>
+        <item>R-17+</item>
+        <item>PG-13</item>
+        <item>PG-13</item>
+        <item>PG-13</item>
     </string-array>
 
     <integer-array name="tv_poster">
@@ -108,13 +108,13 @@
     <string-array name="tv_score">
         <item>5.80</item>
         <item>8.18</item>
-        <item>8.29</item>
-        <item>8.52</item>
+        <item>9.29</item>
+        <item>4.52</item>
         <item>7.95</item>
         <item>8.28</item>
         <item>7.93</item>
-        <item>8.64</item>
-        <item>8.42</item>
+        <item>6.64</item>
+        <item>3.42</item>
         <item>7.37</item>
     </string-array>
 

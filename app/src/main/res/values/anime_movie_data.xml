@@ -80,16 +80,16 @@
     </string-array>
 
     <string-array name="movie_rating">
-        <item>PG-13 - Teens 13 or older</item>
-        <item>PG-13 - Teens 13 or older</item>
-        <item>PG-13 - Teens 13 or older</item>
-        <item>PG-13 - Teens 13 or older</item>
-        <item>PG-13 - Teens 13 or older</item>
-        <item>PG-13 - Teens 13 or older</item>
-        <item>PG - Children</item>
-        <item>PG-13 - Teens 13 or older</item>
-        <item>PG-13 - Teens 13 or older</item>
-        <item>PG-13 - Teens 13 or older</item>
+        <item>PG-13</item>
+        <item>PG-13</item>
+        <item>PG-13</item>
+        <item>PG-13</item>
+        <item>PG-13</item>
+        <item>PG-13</item>
+        <item>PG</item>
+        <item>PG-13</item>
+        <item>PG-13</item>
+        <item>PG-13</item>
     </string-array>
 
     <integer-array name="movie_poster">
@@ -106,16 +106,16 @@
     </integer-array>
 
     <string-array name="movie_score">
-        <item>8.95</item>
-        <item>5.75</item>
-        <item>10.0</item>
-        <item>1.65</item>
-        <item>7.60</item>
-        <item>4.05</item>
-        <item>6.25</item>
+        <item>8.34</item>
+        <item>5.76</item>
+        <item>9.50</item>
+        <item>1.97</item>
+        <item>7.26</item>
+        <item>4.92</item>
+        <item>6.00</item>
         <item>7.40</item>
         <item>8.05</item>
-        <item>3.60</item>
+        <item>3.63</item>
     </string-array>
 
 </resources>
