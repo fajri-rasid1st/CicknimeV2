@@ -1,4 +1,4 @@
-# CicknimeV2
+# cicknimev2
 
 ## Mobile Programming Task 5
 - Recycler view
